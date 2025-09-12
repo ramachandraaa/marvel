@@ -120,7 +120,7 @@ Markdown is an easy-to-use markup language that is used with plain text to add f
 - *Smart Cities*: Integrating IoT sensors, AI-based traffic management, and edge computing solutions.
 - *Emerging Technologies*: Innovating quantum communication, neuromorphic chips, and sustainable electronics.
 
-### [Article Link](https://github.com/Udaykumar0509/Marvel/blob/main/Article.md)
+### [Article Link](https://github.com/ramachandraaa/marvel/blob/main/article.md)
 ---
 
 # Task 9: Tinkercad - Ultrasonic Sensor 
