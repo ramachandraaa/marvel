@@ -1,18 +1,20 @@
-# TASK 2:- *API*   
-## *Crop data fetching from the Self made backend web App* 
-###  Project Overview  
-This is a simple *Movie Search Application* that allows users to search for movies and view details dynamically using an external API.
+# TASK 2:- *API*
 
-### ⚡Technologies Used  
-- *HTML*: For the web page structure  
-- *CSS*: For styling the application  
-- *JavaScript*: For API calls, event handling, and DOM manipulation  
-- *TMDb API*: The Movie Database API  
-&nbsp - Used to search for movies based on a user query  
- &nbsp- Displays movie posters, titles, ratings, release dates, and overviews  
-- *GitHub Pages*: To host the website  
-- *GitHub*: To store project code and version control  
+## *Crop Data Fetching from the Self-Made Backend Web App*
 
+###  Project Overview
+
+This is a simple *Crop Data Fetching Application* that allows users to search for crop information and view details dynamically using a **self-made backend API** developed in *Spring Boot*.
+
+### ⚡ Technologies Used
+
+* *HTML*: For the web page structure
+* *CSS*: For styling the application
+* *JavaScript*: For API calls, event handling, and DOM manipulation
+* *Spring Boot API*:
+    - Custom backend API built to fetch crop-related data
+    - Provides structured responses in JSON format (crop name, type, price, availability, etc.)
+  ---
 ![Screenshot 1](https://raw.githubusercontent.com/ramachandraaa/marvel/refs/heads/main/WhatsApp%20Image%202025-09-11%20at%2016.40.32_812ff52d.jpg)
 
 ---
@@ -92,12 +94,12 @@ Designed a personal *Portfolio Webpage* to present my skills, projects, and show
 
 
 ### 🌐 Links  
-- GitHub Repository: [https://github.com/Udaykumar0509/portfolio](https://github.com/Udaykumar0509/portfolio)  
-- Live Website: [https://udaykumar0509.github.io/portfolio/](https://udaykumar0509.github.io/portfolio/)
+- Live Website: [https://lovable.dev/projects/dc2847bc-a256-4d23-906f-e00096c428a0)
 
 
   
-![Portfolio Screenshot](https://raw.githubusercontent.com/Udaykumar0509/portfolio/refs/heads/main/image.png)
+![Portfolio Screenshot](https://raw.githubusercontent.com/ramachandraaa/marvel/refs/heads/main/WhatsApp%20Image%202025-09-12%20at%2009.42.38_a57c43ee.jpg)
+
 
 ---
 
